@@ -16,6 +16,7 @@
 |https://ipv6.google.com
 |https://vscode-update.azurewebsites.net
 |https://www.hao123.com
+|https://ww2.mathworks.cn
 
 ! 0
 ||0o0.ooo
@@ -304,6 +305,7 @@
 ||ifengimg.com
 ||iguxuan.com
 ||iknoworld.net
+||ilovematlab.cn
 ||im9.com
 ||imiku.me
 ||imjad.cn
